@@ -1,4 +1,4 @@
-<h*align="center"> Proyecto Programación Estructurada</h*
+<h1 align="center"> Proyecto Programación Estructurada</h*
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/* -->
 <a name="readme-top"></a>
