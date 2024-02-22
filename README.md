@@ -100,6 +100,7 @@ Ya viene instalado en la vasta mayoría de distribuciones de GNU/Linux
 
 Si todo salió bien, debería de verse así.
 
+<img src="exec.png" alt="ejecucion del programa" height="500">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
