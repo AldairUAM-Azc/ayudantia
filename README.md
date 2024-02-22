@@ -1,4 +1,4 @@
-<h1 align="center"> Proyecto Programación Estructurada</h*
+<h1 align="center"> Proyecto Programación Estructurada</h1>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/* -->
 <a name="readme-top"></a>
@@ -58,7 +58,7 @@ Se tienen que dominar todos los temas de la materia para desarrollarlo.
 ### Herramientas Utilizadas
 
 * [![C Programming Language](https://img.shields.io/badge/C-Language-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-* [![Visual Studio Code](https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code))
+* [![Visual Studio Code](https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 * [![Text Files](https://img.shields.io/badge/Text-Files-blue?style=for-the-badge&logo=aframe&logoColor=white)](https://en.wikipedia.org/wiki/Text_file)
 
 
